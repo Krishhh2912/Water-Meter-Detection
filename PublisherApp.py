@@ -1,4 +1,4 @@
-1pip install paho-mqtt Pillow
+!pip install paho-mqtt Pillow
 import streamlit as st
 import paho.mqtt.client as mqtt
 import base64
